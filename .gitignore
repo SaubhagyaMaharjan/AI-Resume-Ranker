@@ -1,0 +1,15 @@
+# --- Python cache ---
+__pycache__/
+
+
+# --- Virtual environments ---
+.venv
+.env
+
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Temporary files ---
+temp_uploads/
